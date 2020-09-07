@@ -6,6 +6,7 @@
 
 import csv
 # 예제1
+print('# 예제1')
 with open('./resource/sample1.csv', 'r') as f:
     reader = csv.reader(f)
     # Header(1행)를 패스
@@ -19,6 +20,7 @@ with open('./resource/sample1.csv', 'r') as f:
         print(c)
 
 # 예제2
+print('# 예제2')
 with open('./resource/sample2.csv', 'r') as f:
     # delimiter 속성을 통해 구분자가 무엇인지 알려줌
     reader = csv.reader(f, delimiter='|')
@@ -33,14 +35,17 @@ with open('./resource/sample2.csv', 'r') as f:
         print(c)
 
 # 예제3(Dict변환)
+print('# 예제3(Dict변환)')
 with open('./resource/sample1.csv', 'r') as f:
     reader = csv.DictReader(f)
     for c  in reader:
+        print(c)
         for k, v in c.items():
             print(k, v)
         print('---------------')
 
 # 예제4
+print('# 예제4')
 w = [[1,2,3],[4,5,6],[7,8,9],[10,11,12],[13,14,15],[16,17,18]]
 
 # newline : 줄바꿈 처리를 어떻게 할 것인지 정하는 속성
@@ -52,6 +57,7 @@ with open('./resource/sample3.csv', 'w', newline='') as f:
         wt.writerow(v)
 
 # 예제5
+print('# 예제5')
 with open('./resource/sample4.csv', 'w', newline='') as f:
     wt = csv.writer(f)
     # 조건 상관없이 한번에 작성하는 함수
@@ -67,6 +73,7 @@ with open('./resource/sample4.csv', 'w', newline='') as f:
 
 
 # 예제6
+print('# 예제6')
 import pandas as pd
 
 # sheet_name = '시트명' 또는 숫자, header =숫자, skiprow=숫자 
