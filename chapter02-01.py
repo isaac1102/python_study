@@ -139,4 +139,4 @@ print('EX6-2 -', students2)
 
 # 출력
 for s in students:
-    print('EX7 -1 -', s)
+    print('EX7 -1 -', s)  s
