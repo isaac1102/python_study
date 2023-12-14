@@ -1,11 +1,11 @@
 repo_name: isaac1102/python_study
-report_id: 1b82bb29986e5cf5fb29e72b734f39a4
+report_id: 2e20da3cc6a18f3793dc109f8721eef6
 repo_type: Public
-timestamp: '2023-11-24T08:00:40+00:00'
+timestamp: '2023-12-14T13:24:19+00:00'
 requested_by: isaac1102
 provider: github
 branch: master
-detected_tools_count: 7
+detected_tools_count: 9
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -44,6 +44,17 @@ tools:
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/3693/smarty.png
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/SOURCES.txt
+  last_updated_by: hitman1439
+  last_updated_on: 2020-09-02 14:44:43.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -63,6 +74,17 @@ tools:
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
   detection_source: ".vscode/tasks.json"
+  last_updated_by: hitman1439
+  last_updated_on: 2020-09-02 14:44:43.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/SOURCES.txt
   last_updated_by: hitman1439
   last_updated_on: 2020-09-02 14:44:43.000000000 Z
 - name: PowerShell
