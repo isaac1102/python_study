@@ -3,14 +3,14 @@
 ## Tech Stack
 isaac1102/python_study is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 - [Fortran](https://fortran-lang.org/en/) – Languages
-- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [Python](https://www.python.org) – Languages
+- [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
 - [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
+- [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 isaac1102/python_study is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/11029/default_075c8240ce6c7ac3a8db41abef5c68eb84207f99.png' alt='Fortran'/> [Fortran](https://fortran-lang.org/en/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3693/smarty.png' alt='Smarty'/> [Smarty](http://www.smarty.net/) – Templating Languages & Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3681/powershell-logo.png' alt='PowerShell'/> [PowerShell](https://docs.microsoft.com/en-us/powershell/) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [isaac1102/python_study](https://github.com/isaac1102/python_study)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|01/05/24 <br/>Report generated|
+|9<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
